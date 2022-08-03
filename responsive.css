@@ -1,0 +1,1914 @@
+/* Up to 1650 px screen*/
+
+@media screen and (min-width:1650px) {
+    .container {
+        max-width: 1470px;
+    }
+}
+
+@media screen and (max-width:1649px) {
+    .review_sidebar {
+        width: 33%;
+    }
+    .review_main_content {
+        width: 67%;
+    }
+    .review_sidebar_right {
+        display: none;
+    }
+    .btn-wrapper {
+        padding-bottom: 20px;
+    }
+    .broker_table_footer .btn {
+        margin-bottom: 60px;
+    }
+    .broker_table_footer .btn:last-child {
+        /* margin-bottom: 0; */
+    }
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(220px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-220px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(190px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-190px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(220px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-220px, 0, 0) scale(0.55);
+    }
+    .top_table_right {
+        padding: 0 5px;
+    }
+    .belegging_table_top span {
+        font-size: 12px;
+    }
+    .entail_cost_content {
+        width: 75%;
+    }
+    .entail_cost_icon {
+        width: 25%;
+    }
+    .lheight60-xlg {
+        line-height: 60px!important;
+    }
+    .lheight-30-xlg {
+        line-height: 30px!important;
+    }
+    .mnHeight60-xlg {
+        min-height: 60px!important;
+    }
+    .mnHeight90-xlg {
+        min-height: 90px!important;
+    }
+    .mnHeight73lg {
+        min-height: 73px;
+    }
+    .acaAvailble_item span {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .service_table .general_progress_row .beschikbaarheid {
+        flex-basis: 41.72%;
+    }
+    .service_table .general_progress_row .gesproken_talen {
+        flex-basis: 58.28%;
+    }
+    .conclusie_features_list {
+        margin-top: 20px;
+    }
+    .conclusie_all_buttons .btn {
+        margin-bottom: 20px;
+    }
+    .conclusie_all_buttons .btn:last-child {
+        margin-bottom: 0;
+    }
+    .main_body .progress_tooltip {
+        margin-right: 15px;
+    }
+    .main_body div.icon {
+        margin-right: 10px;
+    }
+    .inner_tabs li a {
+        padding: 10px;
+    }
+}
+
+
+/* Up to 1281px screen */
+
+@media screen and (min-width:1281px) {
+    .container {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width:1280px) {
+    .mobieleApp_option {
+        width: 25%;
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(280px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-280px, 0, 0) scale(0.55);
+    }
+    .beschikbaarheid_time {
+        padding-left: 8px;
+    }
+}
+
+
+/* Less than 1250px screen */
+
+@media screen and (max-width:1250px) {
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(200px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-200px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(170px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-170px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(200px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-200px, 0, 0) scale(0.55);
+    }
+    .entail_cost_content {
+        width: 69%;
+    }
+    .entail_cost_icon {
+        width: 31%;
+    }
+    .entail_cost p {
+        line-height: 18px;
+        margin: 23px 0 15px 0;
+    }
+    .strategieen_option {
+        width: 50%
+    }
+    .accountOpen_plan_slider .owl-nav {
+        max-width: 470px;
+    }
+}
+
+
+/* Less than 1200 screen */
+
+@media screen and (max-width:1200px) {
+    .mnHeight63 {
+        min-height: 76px;
+    }
+    .similiar_slider_inner.owl-carousel .owl-nav {
+        right: 140px;
+    }
+}
+
+
+/* Less than 1150px screen */
+
+@media screen and (max-width:1150px) {
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(176px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-176px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(145px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-145px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(145px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-145px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(176px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-176px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-nav {
+        max-width: 420px;
+    }
+}
+
+
+/* Less than 1100px screen */
+
+@media screen and (max-width:1100px) {
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(150px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-150px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_option {
+        width: calc(50% - 30px);
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(210px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-210px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(118px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-118px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(150px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-150px, 0, 0) scale(0.55);
+    }
+}
+
+
+/* Less than 1050px screen */
+
+@media screen and (max-width:1050px) {
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(125px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-125px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(180px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-180px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(92px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-92px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(125px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-125px, 0, 0) scale(0.55);
+    }
+}
+
+
+/* Less than 991px screen */
+
+@media screen and (min-width: 992px) {
+    .prosCons .general_progress_row .general_progress_col:last-child {
+        /* width: 41.92%; */
+        width: 39%;
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .inner_tabs_select_option select {
+        font-size: 12px;
+    }
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(385px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-385px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(350px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-350px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(385px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-385px, 0, 0) scale(0.55);
+    }
+    .review_page_content .container {
+        padding: 0 20px;
+    }
+    .review_page_content {
+        background-position: top -90px left -270px;
+    }
+    .only_desktop_view {
+        display: none
+    }
+    .only_mobile_view {
+        display: block
+    }
+    .banner_heading {
+        font-size: 40px;
+        line-height: 43px;
+    }
+    .review_sidebar {
+        display: none;
+    }
+    .review_main_content {
+        width: 100%;
+        padding: 0;
+    }
+    .prosCons .general_progress_row .general_progress_col:last-child {
+        width: 50%;
+        max-width: 100%;
+    }
+    .broker_table_footer .btn {
+        margin-bottom: 0;
+    }
+    .btn-wrapper {
+        padding-bottom: 60px;
+    }
+    .kosten_info .general_progress_box {
+        width: 1042px;
+    }
+    .belegging_main_table .general_progress_box {
+        width: 991px;
+    }
+    .licenties_item,
+    .licenties_item_wrap {
+        max-width: 991px;
+    }
+    .demo-x {
+        /* margin: 0 -20px 0 0; */
+        position: relative;
+        z-index: 2;
+    }
+    .belegging_main_table_wrap::after,
+    .licenties_item_wrap::after {
+        display: block;
+    }
+    .belegging_table_top .general_progress_row {
+        padding: 16px 18px;
+    }
+    .belegging_table_top .general_progress_row .general_progress_col {
+        margin-bottom: 10px;
+    }
+    .top_table_right .general_progress_col:last-child {
+        margin-bottom: 0;
+    }
+    .top_table_right {
+        padding: 0;
+    }
+    .top_table_right,
+    .top_table_left {
+        width: 100%;
+        max-width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .belegging_table_top span {
+        font-size: 16px;
+        padding: 0;
+    }
+    .belegging_info .mCSB_horizontal.mCSB_inside>.mCSB_container {
+        margin-bottom: 0;
+    }
+    .belegging_table_box .general_progress_box {
+        margin-bottom: 20px;
+    }
+    .belegging_main_table .general_progress_box {
+        margin-bottom: 30px;
+    }
+    .belegging_table_box {
+        margin-bottom: 30px;
+    }
+    .mTable_foColumn {
+        width: 25%;
+    }
+    .belegging_main_table .mTable_foColumn {
+        /* width: 14.06%; */
+    }
+    .belegging_info .section_title {
+        word-break: break-word;
+    }
+    .belegging_info .start-rating-content {
+        word-break: normal;
+    }
+    .start-rating-content::after {
+        width: 100%;
+    }
+    .belegging_info .section_title .start-rating-content p {
+        margin-right: 5px;
+    }
+    .demoAccount_info,
+    .accountOpen_info,
+    .kosten_info,
+    .belegging_info {
+        padding: 40px 0;
+    }
+    .accountOpen_info,
+    .kosten_info {
+        padding-top: 103px;
+    }
+    .entail_cost_content {
+        width: 75%;
+    }
+    .entail_cost_icon {
+        width: 25%;
+    }
+    .kTable_tColumn {
+        width: 33%;
+    }
+    .mnHeight90-xlg {
+        min-height: inherit!important;
+    }
+    .mnHeight60-xlg {
+        min-height: 40px!important;
+    }
+    .lheight60-xlg {
+        line-height: 40px!important;
+    }
+    .kosten_main_table {
+        margin-bottom: 40px;
+    }
+    .mobieleApp_option {
+        width: calc(25% - 30px);
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(360px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-360px, 0, 0) scale(0.55);
+    }
+    .strategieen_option {
+        width: 33.33%
+    }
+    .mnHeight63 {
+        min-height: 63px;
+    }
+    .mnHeight73lg {
+        min-height: unset;
+    }
+    .acaAvailble_item span {
+        display: block;
+    }
+    .educatie_info {
+        padding-top: 100px;
+        padding-bottom: 40px;
+    }
+    .beschikbaarheid_time {
+        padding-left: 20px;
+    }
+    .conclusie_features_list {
+        margin-top: 0;
+    }
+    .conclusie_all_buttons .btn {
+        margin-bottom: 0;
+    }
+    .similiar_slider_header {
+        width: 100%;
+    }
+    .similiar_slider_inner.owl-carousel .owl-nav {
+        right: 15px;
+    }
+    .req_pro_acc_inner {
+        max-width: 450px;
+        width: 100%;
+        height: 600px;
+    }
+    .req_pro_inner_wrap {
+        padding: 0 20px;
+    }
+    .account_type_slider_wrapper .mCSB_scrollTools.mCSB_scrollTools_horizontal .mCSB_dragger {
+        width: 80px!important;
+    }
+    .main_body .progress_tooltip {
+        margin-right: 33px;
+    }
+    .main_body div.icon {
+        margin-right: 5px;
+    }
+    .inner_tabs li a {
+        padding: 16px 20px;
+    }
+    .mobieleApp_slider .owl-nav {
+        max-width: 266px;
+        bottom: 50%;
+    }
+    .kosten_main_table::after {
+        display: block;
+    }
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content,
+    .kosten_main_table .progress_tooltip .tooltip_content {
+        top: unset;
+        bottom: calc(100% + 10px);
+        left: unset;
+        right: -10px;
+    }
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content {
+        right: unset;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content::after,
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content::before,
+    .kosten_main_table .progress_tooltip .tooltip_content::after,
+    .kosten_main_table .progress_tooltip .tooltip_content::before {
+        border-width: 6px;
+        left: unset;
+        right: 11px;
+        top: unset;
+        bottom: -13px;
+    }
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content::after,
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content::before {
+        right: 50%;
+        transform: translateX(50%);
+    }
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content::after,
+    .kosten_main_table .progress_tooltip .tooltip_content::after {
+        border-color: #fff transparent transparent transparent;
+        bottom: -11px;
+    }
+    .belegging_main_table_wrap .progress_tooltip .tooltip_content::before,
+    .kosten_main_table .progress_tooltip .tooltip_content::before {
+        border-color: #aed6ee transparent transparent transparent;
+    }
+    .badge_popoup_title {
+        font-size: 20px;
+        line-height: 24px;
+        margin-left: 5px;
+    }
+    .badge_heading {
+        margin-bottom: 10px;
+        flex-wrap: nowrap;
+    }
+    .badge_subTitle {
+        margin-bottom: 10px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .badge_card {
+        margin: 20px auto;
+    }
+    .badge_heading .logo {
+        padding: 10px;
+        max-width: 90px;
+    }
+    .badge_popoup_title span {
+        display: inline;
+    }
+    .badge_popoup_title span::after {
+        left: 60px;
+        top: 12px;
+    }
+    .badge_body .script_code.script {
+        margin-bottom: 10px;
+    }
+    .badge_dropdown select {
+        font-size: 14px;
+        line-height: 20px;
+        height: 40px;
+        padding: 0 20px;
+    }
+}
+
+
+/* Less than 950px screen */
+
+@media screen and (max-width: 950px) {
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(355px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-355px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(340px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-340px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(320px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-320px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(355px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-355px, 0, 0) scale(0.55);
+    }
+}
+
+
+/* Less than 900px screen */
+
+@media screen and (max-width: 900px) {
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(310px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-310px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(280px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-280px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(280px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-280px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(310px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-310px, 0, 0) scale(0.55);
+    }
+}
+
+
+/* Less than 850px screen */
+
+@media screen and (max-width: 850px) {
+    .btn-wrapper {
+        flex-direction: column;
+        padding-bottom: 20px;
+    }
+    .btn-wrapper .btn {
+        margin-bottom: 20px;
+    }
+    .btn-wrapper .btn:first-child {
+        margin-bottom: 43px;
+    }
+    .desktop_view {
+        display: none;
+    }
+    .mobile_view {
+        display: block;
+    }
+    .total_people_info {
+        padding-left: 0;
+        min-height: 23px;
+    }
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(275px, 0, 0) scale(0.55);
+    }
+    .klanten_slider .owl-item.owlNext {
+        transform: translate3d(-275px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev {
+        transform: translate3d(240px, 0, 0) scale(0.55);
+    }
+    .analyses_slider .owl-item.owlNext {
+        transform: translate3d(-240px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(275px, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(-275px, 0, 0) scale(0.55);
+    }
+    .service_table .general_progress_row .beschikbaarheid {
+        flex-basis: 35.72%;
+    }
+    .service_table .general_progress_row .gesproken_talen {
+        flex-basis: 64.28%;
+    }
+    .conclusie_all_buttons .btn-wrapper .btn:first-child {
+        margin-bottom: 20px;
+    }
+    .kTable_tColumn {
+        width: 19.57%;
+    }
+    .kosten_info .mCSB_container,
+    .kosten_info .general_progress_box,
+    .belegging_main_table .general_progress_box {
+        width: 870px!important;
+    }
+    .belegging_main_table .mTable_foColumn {
+        /* width: 14.06%; */
+    }
+}
+
+
+/* Less than 767px screen*/
+
+@media screen and (min-width: 768px) {
+    .banner_content>h1 {
+        display: none;
+    }
+    .broker_general_info>.ons_scor {
+        display: none;
+    }
+    .prosCons .general_progress_row .general_progress_col:first-child {
+        /* width: 26.39%; */
+        width: 30%;
+        /* max-width: 229px; */
+    }
+    .prosCons .general_progress_row .general_progress_col:nth-child(2) {
+        /* width: 31.69%; */
+        width: 31%;
+        /* max-width: 275px; */
+    }
+    .table_popup_link_mb {
+        display: none;
+    }
+    .mobilee_view {
+        display: none;
+    }
+    .accountOpen_plan_slider .owl-nav button.owl-prev {
+        left: -18px;
+    }
+    .accountOpen_plan_slider .owl-nav button.owl-next {
+        right: -18px;
+    }
+    .demoAcc_table .general_progress_col {
+        border-right: 1px solid var(--borderColor);
+    }
+    .demoAcc_table .general_progress_col:last-child {
+        border-right: 0;
+    }
+    .whyDemoAccount_wrap ul li:last-child {
+        border-bottom: 0;
+    }
+    .whyDemoAccount_wrap {
+        width: 41.71%;
+    }
+    .DemoAccount_wrap {
+        width: 29.27%;
+        display: flex;
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+    .dAccountOp {
+        width: 29.02%;
+    }
+    .DemoAccount_wrap .dAccount {
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: center;
+        height: 100%;
+    }
+    .educatie_table .general_progress_row .general_progress_title {
+        flex-basis: 100%;
+    }
+    .educatie_table .general_progress_row .academy_content {
+        flex-basis: 33.41%;
+        border-right: 1px solid var(--borderColor);
+    }
+    .educatie_table .general_progress_row .tab_voorList {
+        flex-basis: 36.1%;
+        border-right: 1px solid var(--borderColor);
+    }
+    .educatie_table .general_progress_row .academy_available_col {
+        flex-basis: 30.49%;
+    }
+    .service_table .general_progress_row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .service_table .general_progress_title {
+        border-bottom: 1px solid var(--borderColor);
+    }
+    .nadelen_title {
+        border-top-right-radius: 6px;
+    }
+}
+
+@media screen and (min-width: 766px) and (max-width: 850px) {
+    .mTable_fColumn {
+        width: 35.8%;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .mTable_foColumn {
+        width: 14.06%;
+    }
+    .desktopp_view {
+        display: none;
+    }
+    .analyses_slider .owl-item.cloned,
+    .analyses_slider .owl-item.owlPrev,
+    .analyses_slider .owl-item.owlNext,
+    .klanten_slider .owl-item.owlNext,
+    .klanten_slider .owl-item.owlPrev {
+        transform: translate3d(0, 0, 0) scale(0.55);
+    }
+    .klanten_reviews_content {
+        margin-bottom: 0;
+    }
+    .rating_list .general_progress_row {
+        flex-wrap: wrap;
+    }
+    .rating_list .w-50 {
+        width: 100% !important;
+    }
+    .banner_section {
+        padding: 20px 0;
+    }
+    .banner_heading {
+        font-size: 28px;
+        line-height: 33px;
+        margin-bottom: 15px;
+    }
+    .banner_section .review_broker_img {
+        max-width: 100%;
+    }
+    .review_broker_info {
+        margin-top: 15px;
+        width: 100%;
+        padding-left: 0;
+    }
+    .review_broker_img .rating {
+        display: flex;
+    }
+    .review_broker_info .rating {
+        display: none;
+    }
+    .review_broker_info .banner_heading {
+        display: none;
+    }
+    .author_img {
+        width: 52px;
+        height: 52px;
+    }
+    .author_img img {
+        max-width: 100%;
+    }
+    .broker_general_info .ons_scor {
+        display: block;
+        max-width: 300px;
+        margin: 0 auto;
+        margin-bottom: 30px;
+    }
+    .broker_general_info>P {
+        margin-bottom: 20px;
+    }
+    .prosCons .general_progress_row {
+        flex-direction: column;
+    }
+    .prosCons .general_progress_row .general_progress_col:first-child {
+        display: none;
+    }
+    .prosCons .general_progress_row .general_progress_col:nth-child(2) {
+        border-right: none;
+    }
+    .prosCons .general_progress_row .general_progress_col:last-child {
+        width: 100%;
+        max-width: 100%;
+    }
+    .broker_review_table .general_progress_title {
+        padding-left: 13px;
+        border-bottom: 1px solid var(--borderColor);
+        min-height: 40px;
+        cursor: pointer;
+        background-image: url(./assets/images/extensive-images/arrow_up.svg);
+        background-repeat: no-repeat;
+        background-position: right 16px center;
+    }
+    .broker_review_table .nadelen_title {
+        border-top: 1px solid var(--borderColor);
+    }
+    .broker_review_table .general_progress_title.close {
+        background-image: url(./assets/images/extensive-images/arrow_down.svg);
+        border-bottom: none;
+    }
+    .voordelen_title {
+        border-top: none;
+    }
+    .nadelen li {
+        max-width: inherit;
+    }
+    .onze_badge {
+        display: none;
+    }
+    .table_popup_link_mb .onze_badge {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: transparent;
+        margin: 13px 20px;
+        color: var(--darkLemonLime)!important;
+        text-decoration: inherit;
+    }
+    .rating_list .general_progress_col:last-child,
+    .rating_list .general_progress_col,
+    .nadelen_wrap,
+    .voordelen_wrap,
+    .voordelen_title,
+    .nadelen_title {
+        padding-left: 13px;
+    }
+    .rating_list .general_progress_col:first-child {
+        padding-bottom: 0;
+    }
+    .rating_list .general_progress_col:last-child {
+        padding-top: 13px;
+    }
+    .profile_status_bar {
+        margin-left: auto;
+    }
+    .single_column_info .general_progress_col {
+        padding: 10px 13px;
+    }
+    .single_column_info .single_column_left,
+    .single_column_info .single_column_right {
+        width: 100%;
+    }
+    .single_column_info .single_column_left {
+        line-height: 40px;
+    }
+    .single_column_info .single_column_right {
+        line-height: 20px;
+    }
+    .single_column_info .general_progress_col {
+        /* min-height: 80px; */
+    }
+    .single_column_info .general_progress_col {
+        line-height: inherit;
+    }
+    .rating_list .general_progress_col:first-child {
+        padding-top: 0;
+    }
+    .broker_table_footer {
+        padding: 20px 13px;
+    }
+    .owl-carousel .owl-nav button.owl-prev,
+    .owl-carousel .owl-nav button.owl-next {
+        transform: translateY(-70px);
+    }
+    .analyses_slider .owl-nav button.owl-prev,
+    .analyses_slider .owl-nav button.owl-next,
+    .mobieleApp_slider .owl-nav button.owl-prev,
+    .mobieleApp_slider .owl-nav button.owl-next,
+    .software_slider .owl-nav button.owl-prev,
+    .software_slider .owl-nav button.owl-next,
+    .eenOrderPlaatsen_slider_wrapper .owl-carousel .owl-nav button.owl-prev,
+    .eenOrderPlaatsen_slider_wrapper .owl-carousel .owl-nav button.owl-next {
+        transform: translateY(-30px);
+    }
+    .etoroSoftware_tab .tab_title_area::after {
+        display: block;
+    }
+    .demo_account_info {
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 14px 60px 14px 18px;
+    }
+    .demo_account_info .info_icon {
+        min-width: 16px;
+        min-height: 16px;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    .demo_account_info .info_icon img {
+        width: 16px;
+        height: 16px;
+    }
+    .demo_account_info .close_icon {
+        top: 14px;
+    }
+    .algemene_content_top {
+        flex-wrap: wrap;
+    }
+    .algemene_info .review_broker_img {
+        min-width: 100%;
+        margin-left: 0;
+        margin-bottom: 20px;
+        min-height: 168px;
+    }
+    .algemene_info {
+        padding-bottom: 40px;
+    }
+    .algemene_info p {
+        margin-bottom: 20px;
+    }
+    .algemene_info p:last-child {
+        margin-bottom: 0;
+    }
+    .licenties_right {
+        /* width: 505px; */
+    }
+    .section_headeing {
+        margin-bottom: 20px;
+    }
+    .section_headeing>.icon {
+        margin-right: 10px;
+    }
+    .betrouwbaarheid_info {
+        padding: 40px 0;
+        padding-bottom: 10px;
+    }
+    .open_acc_wrapper {
+        bottom: -60px;
+    }
+    .open_acc_wrapper .btn {
+        font-size: 14px;
+        padding: 0 2px;
+    }
+    .veiligheid_info {
+        padding-top: 100px;
+        padding-bottom: 40px;
+    }
+    .betrouwbaarheid_content p {
+        margin-bottom: 40px;
+    }
+    .entail_cost_icon,
+    .entail_cost_content {
+        width: 100%
+    }
+    .entail_cost ol li span {
+        line-height: 18px;
+    }
+    .entail_cost ol li {
+        margin-bottom: 25px;
+    }
+    .entail_cost ol li .select_options {
+        width: 100%;
+        margin-bottom: 4px;
+    }
+    .entail_cost_icon {
+        justify-content: space-between;
+    }
+    .slider_with_content {
+        margin: 0;
+    }
+    .slider_with_content_right,
+    .slider_with_content_left {
+        width: 100%;
+        padding: 0;
+    }
+    .slider_with_content_right {
+        margin-bottom: 32px;
+    }
+    .service_info,
+    .etoroSoftware_info {
+        padding: 40px 0;
+    }
+    .etoroSoftware_tab .tabs {
+        margin-bottom: 0;
+    }
+    .sociaal_handelsplatform_content,
+    .order_follows_list li,
+    .sociaal_handelsplatform_content .training_guide,
+    .etoroSoftware_tab .tab_title_area,
+    .sociaal_handelsplatform_content p,
+    .mogelijkheden_content p,
+    .slider_with_content_left p {
+        margin-bottom: 20px;
+    }
+    .notificaties_content {
+        margin-bottom: 30px;
+    }
+    .educatie_tab .toggle_heading h5 {
+        font-weight: 500;
+        text-transform: inherit;
+    }
+    .educatie_tab .toggle_heading {
+        background-position: right 15px center;
+    }
+    .etoroSoftware_tab .mCSB_horizontal.mCSB_inside>.mCSB_container {
+        margin-bottom: 0;
+    }
+    .etoroSoftware_tab .mCSB_scrollTools.mCSB_scrollTools_horizontal {
+        height: 0;
+    }
+    .etoroSoftware_tab .tab_title_area .tabs li.active a {
+        background-image: url(assets/images/extensive-images/rightArrowHover.svg);
+        background-repeat: no-repeat;
+        background-position: right 15px center;
+    }
+    .koopOrder_list ol {
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    .eenOrderPlaatsen_tabs_wrapper {
+        padding-bottom: 0;
+        background-color: transparent;
+    }
+    .eenOrderPlaatsenTab_container {
+        padding: 0;
+    }
+    .eenOrderPlaatsenTab_content {
+        padding: 20px;
+        background-color: var(--white);
+        margin-bottom: 20px;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+    }
+    .eenOrderPlaatsenTab_container .toggle_heading.active {
+        margin-bottom: 0;
+    }
+    .toggle_heading.mobile_view {
+        display: flex;
+    }
+    .mobieleApp_info {
+        padding: 40px 0;
+        padding-top: 103px;
+    }
+    .mobieleApp_options_right,
+    .mobieleApp_options_left {
+        width: 100%;
+    }
+    .mobieleApp_options .mobieleApp_options_right {
+        /* order: 1; */
+        background-color: var(--ghostWhiteThree);
+    }
+    .mobieleApp_options .mobieleApp_options_left {
+        /* order: 2; */
+        margin-bottom: 30px;
+    }
+    .app_store_left,
+    .app_store_right {
+        background-color: var(--white);
+        margin: 0;
+        width: 50%;
+    }
+    .app_store_left {
+        /* margin-bottom: 10px; */
+    }
+    .app_store_icon {
+        /* flex-direction: column; */
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .app_store_bottom,
+    .app_store_top {
+        /* max-width: 94px; */
+    }
+    .app_store_icon img {
+        max-width: 94px;
+        margin: 0 auto;
+    }
+    .app_store_icon span {
+        width: calc(100% - 20px);
+    }
+    .mobieleApp_content p {
+        margin-bottom: 10px;
+    }
+    .strategieen_option,
+    .mobieleApp_option {
+        width: calc(100% - 110px);
+        margin: 0 auto;
+    }
+    .mobieleApp_options_wrapper {
+        margin-top: 0;
+    }
+    .strategieen_options_slider .owl-nav button.owl-prev,
+    .strategieen_options_slider .owl-nav button.owl-next {
+        transform: translateY(-147px);
+    }
+    .mobieleApp_options_slider .owl-nav button.owl-prev,
+    .mobieleApp_options_slider .owl-nav button.owl-next {
+        transform: translateY(-85px);
+    }
+    .strategieen_options_slider .owl-nav button.owl-prev {
+        left: 20px;
+    }
+    .mobieleApp_options_slider .owl-nav button.owl-prev {
+        left: 0;
+    }
+    .strategieen_options_slider .owl-nav button.owl-next {
+        right: 20px;
+    }
+    .mobieleApp_options_slider .owl-nav button.owl-next {
+        right: 0;
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(530px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-530px, 0, 0) scale(0.55);
+    }
+    .analyses_tab_wrapper .tabs li a {
+        min-width: unset;
+    }
+    .analyses_content p {
+        margin-bottom: 20px;
+    }
+    .strategieen_info {
+        padding: 100px 0 40px;
+    }
+    .strategieen_content p {
+        margin-bottom: 31px;
+    }
+    .depWith_work_device_left,
+    .depWith_work_device_right {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .depWith_work_device_inner span {
+        padding: 13px 44px 13px 10px;
+        font-size: 14px;
+    }
+    .depWith_work_table_wrapper .select_payment_option {
+        min-width: 100%;
+    }
+    .depWith_work_table_wrapper .depWith_dropdown {
+        left: 20px;
+        right: 20px;
+        width: auto;
+    }
+    .select_payment_option_wrapper {
+        max-width: 100%;
+        /* margin-bottom: 16px; */
+        padding: 17px 20px 16px;
+        background: var(--white);
+        border-radius: 6px 6px 0 0;
+    }
+    .depWith_work_table_right,
+    .depWith_work_table_left {
+        width: 100%;
+    }
+    .depWith_work_table_left {
+        border-right: none;
+        border-bottom: 1px solid var(--borderColor);
+        border-top: 1px solid var(--borderColor);
+    }
+    .depWith_work_table_right .depWith_work_table_title {
+        justify-content: flex-start;
+    }
+    .depWith_work_table_right .depWith_work_table_title h5 {
+        line-height: inherit;
+    }
+    .depWith_work_table_title {
+        padding: 13px 19px;
+    }
+    .depWith_work_table_right .depWith_work_table_title h5 {
+        text-align: left;
+        width: 100%;
+    }
+    .depWith_table_row_content {
+        justify-content: flex-end;
+    }
+    .depWith_table_row {
+        border-bottom: 0;
+        background-color: var(--white);
+    }
+    .depWith_work_table_title {
+        border-bottom: 0;
+        background-color: var(--aliceBlue);
+    }
+    .depWith_table_row_content span,
+    .depWith_table_row_content small {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        text-align: right;
+    }
+    .depWith_table_row_content small {
+        font-weight: 300;
+    }
+    .depWith_table_row_title {
+        width: 110px;
+    }
+    .depWith_table_row_content {
+        width: calc(110% - 110px)
+    }
+    .requirements_content {
+        align-items: flex-end;
+    }
+    .deposit_withdrawal_info {
+        padding: 45px 0 40px;
+    }
+    .accountOpen_plan_slider .owl-nav {
+        top: unset;
+        bottom: -15px;
+        max-width: 100%;
+    }
+    .accountOpen_plan_slider {
+        padding: 31px 0 77px;
+    }
+    .accountOpen_plan_slider.owl-carousel .owl-dots {
+        bottom: 35px;
+        display: flex;
+        /* flex-wrap: nowrap; */
+        align-items: center;
+        justify-content: center;
+        max-width: 100%;
+    }
+    /* .accountOpen_plan_slider.owl-carousel .owl-dot {
+        display: block;
+    } */
+    .account_types_content p {
+        margin-bottom: 20px;
+    }
+    .account_type_slider .mCSB_horizontal.mCSB_inside>.mCSB_container {
+        margin-bottom: 20px;
+    }
+    .demoAcc_table .general_progress_col {
+        width: 100%;
+    }
+    .AccountOp {
+        margin-top: 20px;
+    }
+    .AccountOp .dAccount {
+        padding: 39px;
+        background-color: var(--white);
+        border: 1px solid var(--borderColor);
+        border-radius: 6px;
+    }
+    .educatie_tab .tab_content {
+        margin-bottom: 0;
+        border-radius: 0;
+        /* border-bottom: 0; */
+    }
+    .educatie_tab .tab_content .voordelen_list,
+    .educatie_tab .tab_content .tab_img_box {
+        flex-basis: 100%;
+    }
+    .educatie_tab .voordelen_list {
+        margin-bottom: 20px;
+    }
+    .educatie_tab .tab_content .tab_img_box img,
+    .educatie_tab .tab_content .tab_img_box {
+        max-width: 100%;
+        width: 100%;
+    }
+    .educatie_tab .toggle_heading {
+        border-top: 0;
+    }
+    .educatie_tab .toggle_heading:first-child {
+        border-top: 1px solid var(--borderColor);
+    }
+    .educatie_tab {
+        margin-bottom: 20px;
+    }
+    .educatie_table .general_progress_col,
+    .educatie_table .general_progress_title {
+        flex-basis: 100%;
+    }
+    .educatie_table .general_progress_title {
+        flex-direction: column;
+        justify-content: center;
+        align-content: flex-start;
+        padding: 20px;
+    }
+    .educatie_table .general_progress_title h5 {
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    .educatie_table .general_progress_col {
+        padding: 10px 20px;
+    }
+    .educatie_table .academy_content {
+        padding-bottom: 0;
+    }
+    .educatie_table .academy_available_col {
+        padding-bottom: 20px;
+    }
+    .educatie_table {
+        margin-bottom: 20px;
+    }
+    .service_table .general_progress_row .beschikbaarheid {
+        flex-basis: 100%;
+        border-right: none;
+    }
+    .service_table .general_progress_row .gesproken_talen {
+        flex-basis: 100%;
+    }
+    .beschikbaarheid_time {
+        padding-left: 0;
+        /* text-align: right; */
+        /* padding-left: 30px; */
+    }
+    .service_table .general_progress_title {
+        border-bottom: 1px solid var(--borderColor);
+    }
+    .gesproken_talen .general_progress_title {
+        border-top: 1px solid var(--borderColor);
+    }
+    .gesproken_talen_content ul {
+        max-height: 160px;
+    }
+    .beschikbaarheid .general_progress_title {
+        border-top-right-radius: 6px;
+    }
+    .gesproken_talen .general_progress_title {
+        border-radius: 0;
+    }
+    .beschikbaarheid_content ul li span,
+    .gesproken_talen_content ul li span {
+        font-weight: 400;
+    }
+    .gesproken_talen_content li:nth-last-child(-n+4) {
+        /* padding-left: 30px; */
+    }
+    .progress_table {
+        width: 100%;
+        margin: 0;
+        border-bottom: 1px solid var(--borderColor);
+        padding: 24px 20px 20px 20px;
+    }
+    .progress_table .profile_status_bar {
+        width: 100%;
+    }
+    .progress_text {
+        min-width: 120px;
+    }
+    .conclusie_inner {
+        border: none;
+        background-color: transparent;
+    }
+    .conclusie_features_list {
+        padding: 21px 19px 56px 19px;
+    }
+    .conclusie_all_buttons,
+    .conclusie_card_block,
+    .conclusie_content {
+        padding: 0;
+        border-bottom: 0;
+    }
+    .conclusie_info {
+        padding: 100px 0 0;
+    }
+    .conclusie_inner .section_title {
+        margin-bottom: 20px;
+    }
+    .conclusie_content p:last-child {
+        margin-bottom: 15px;
+    }
+    .conclusie_card_block {
+        border: 1px solid var(--borderColor);
+        border-radius: 6px;
+        position: relative;
+        margin-bottom: 15px;
+        background-color: var(--ghostWhite);
+    }
+    .conclusie_card_block_head {
+        border-bottom: 1px solid var(--borderColor);
+        padding: 20px;
+        margin-bottom: 0;
+        justify-content: space-between;
+        background-color: var(--white);
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+    }
+    .app_android {
+        position: absolute;
+        bottom: 12px;
+        right: 20px;
+        width: 83px;
+        height: 34px;
+    }
+    .app_android img {
+        width: 20px;
+    }
+    .conclusie_card_block_head .rating {
+        max-width: 75px;
+        min-width: 75px;
+        min-height: 36px;
+        position: relative;
+        box-shadow: none;
+        background-color: transparent;
+        border-radius: 0;
+        padding: 0;
+    }
+    .conclusie_card_block_head .rating_text {
+        margin-left: 0;
+    }
+    .conclusie_card_block_head .rating img {
+        position: absolute;
+        bottom: 3px;
+    }
+    .conclusie_card_block_head .review_broker_img {
+        max-width: 120px;
+        min-height: unset;
+        padding: 0;
+        background-color: transparent;
+    }
+    .conclusie_card_block_head .review_broker_img img {
+        min-width: 120px;
+    }
+    .tag {
+        position: absolute;
+        margin: 0;
+        left: 20px;
+        transform: translateY(40px);
+    }
+    .conclusie_all_buttons {
+        margin-bottom: 20px;
+    }
+    .conclusie_content_last {
+        background-color: var(--ghostWhite);
+        padding: 21px 20px;
+        border: 1px solid var(--borderColor);
+        border-radius: 6px;
+    }
+    .conclusie_content_last .btn {
+        max-width: 100%;
+    }
+    .ss_item_inner {
+        max-width: 100%;
+    }
+    .similiar_slider_inner {
+        margin: 0;
+    }
+    .ss_item {
+        padding: 0;
+    }
+    .ss_item .rating {
+        flex-wrap: wrap;
+        min-height: 48px;
+    }
+    .similiar_slider_inner.owl-carousel .owl-nav {
+        display: none;
+    }
+    .ss_item .rating {
+        border: none;
+    }
+    .ss_item .rating img {
+        margin-right: 5px;
+        min-width: 20px;
+    }
+    .ss_item .rating_text {
+        display: block;
+        flex-basis: 100%;
+        font-size: 14px;
+        font-weight: 700;
+        text-align: right;
+    }
+    .ss_item .rating_value {
+        font-size: 18px;
+        font-weight: 700;
+        color: var(--blackOuterSpace);
+        display: flex;
+        margin-left: auto;
+    }
+    .similiar_slider_header .similiar_slider_heading {
+        margin-bottom: 40px;
+    }
+    .similiar_slider_header {
+        padding: 0;
+    }
+    .similiar_slider_wrap {
+        background-image: unset;
+        padding: 40px 0;
+    }
+    .similiar_slider_inner.owl-carousel .owl-dots {
+        bottom: -5px;
+    }
+    .ss_item_body .tag {
+        top: -50px;
+    }
+    .horizontal_menuBar {
+        position: relative;
+    }
+    .horizontal_menuBar ul {
+        padding: 0;
+    }
+    .horizontal_menuBar.active {
+        position: fixed;
+    }
+    .horizontal_menuBar_slider .owl-nav button.owl-prev {
+        left: -10px;
+    }
+    .horizontal_menuBar_slider .owl-nav button.owl-next {
+        right: -10px;
+    }
+    .rating_list {
+        border-top: 1px solid var(--borderColor);
+    }
+    .prosCons {
+        border-bottom: 0;
+    }
+    .voordelen_title {
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+    }
+    .depWith_work_table {
+        border: 0;
+    }
+    .depWith_work_table_wrapper {
+        border: 1px solid var(--borderColor);
+        border-radius: 6px;
+    }
+    .ss_buttons_wrapper .btn {
+        font-size: 13px;
+        min-height: 35px;
+        width: 50%;
+        text-transform: capitalize;
+    }
+    .ss_buttons_wrapper .btn.broker_info {
+        margin-left: 13px;
+    }
+    .ss_buttons_wrapper {
+        padding: 0 15px 9px 15px;
+    }
+    .ss_item_list {
+        padding: 15px;
+    }
+    .ss_item_header {
+        padding-left: 15px;
+    }
+    .ss_item_list .app_android {
+        right: 15px;
+        width: 60px;
+    }
+    .ss_broker_logo {
+        display: flex;
+        align-items: center;
+    }
+    .start-rating-content>img {
+        width: 15px;
+        height: 14px;
+    }
+    .start-rating-content p {
+        font-size: 16px;
+    }
+    .section_headeing .progress_tooltip .icon {
+        width: 15px;
+        height: 15px;
+    }
+    .start-rating-content::after {
+        bottom: 15px;
+    }
+    .section_title {
+        width: calc(100% - 123px)
+    }
+    .start-rating-content {
+        margin-left: 10px;
+    }
+    .start-rating-content p {
+        margin-right: 3px;
+    }
+    .start-rating-content .progress_tooltip .tooltip_content {
+        left: unset;
+        right: -5px;
+        top: 20px;
+    }
+    .start-rating-content .progress_tooltip .tooltip_content::after {
+        top: -6px;
+        right: 6px;
+        left: unset;
+        border-width: 0 5px 5px 5px;
+        border-color: transparent transparent var(--borderColor) transparent;
+    }
+    .start-rating-content .progress_tooltip .tooltip_content::before {
+        top: -4px;
+        left: unset;
+        right: 6px;
+        border-width: 0 5px 5px 5px;
+        border-color: transparent transparent #fff transparent;
+        z-index: 1;
+    }
+    .entail_cost {
+        padding: 23px 20px 20px;
+    }
+    .inner_tabs_select_option select {
+        padding: 16px 10px;
+        padding-right: 20px;
+        background-position: right 3px center;
+    }
+    .inner_tabs_select_option.active {
+        margin-right: 0;
+    }
+    .inner_tab_title_area_right,
+    .analyses_tab_wrapper .tabs li:last-child,
+    .inner_tab_title_area_right,
+    .inner_tab_title_area_left,
+    .analyses_tab_wrapper .tabs li {
+        width: 50%;
+    }
+    .licenties_item {
+        width: 700px;
+    }
+}
+
+@media screen and (max-width:766px) {
+    .accountOpen_plan_slider .owl-item.owlPrev {
+        transform: translate3d(0, 0, 0) scale(0.55);
+    }
+    .accountOpen_plan_slider .owl-item.owlNext {
+        transform: translate3d(0, 0, 0) scale(0.55);
+    }
+}
+
+
+/* Less than 700px screen*/
+
+@media screen and (max-width:700px) {
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(450px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-450px, 0, 0) scale(0.55);
+    }
+}
+
+
+/* Less than 575px screen*/
+
+@media screen and (max-width:575px) {
+    .review_page_inner {
+        padding: 33px 0 0;
+    }
+    .heading_title {
+        font-size: 20px;
+        line-height: 23px;
+        margin-bottom: 0;
+    }
+    .banner_rating {
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .author_info span {
+        font-size: 14px;
+    }
+    .review_page_content {
+        background-position: top 70px right 150px;
+    }
+    .belegging_info .section_title .progress_tooltip {
+        padding-right: 20px;
+    }
+    .kosten_info .start-rating-content {
+        margin-left: auto;
+    }
+    .mobieleApp_slider_img {
+        width: 90px;
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(400px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-400px, 0, 0) scale(0.55);
+    }
+    .belegging_main_table .general_progress_box {
+        width: 800px!important;
+    }
+    .mTable_fColumn {
+        width: 34.8%;
+    }
+    .mTable_sColumn {
+        width: 27.38%;
+    }
+    .mTable_tColumn {
+        width: 25.771%;
+    }
+    .mTable_foColumn {
+        /* width: 21.049%; */
+    }
+}
+
+@media screen and (max-width:520px) {
+    .account_type_inner {
+        width: 400px;
+    }
+    .licenties_item {
+        width: 600px;
+    }
+}
+
+@media screen and (max-width:420px) {
+    .cost_icon_box {
+        margin: 0;
+    }
+    .cost_icon_box {
+        width: 62px;
+        height: 62px;
+    }
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(260px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-260px, 0, 0) scale(0.55);
+    }
+    .req_pro_acc_inner {
+        max-width: calc(100% - 20px);
+        width: 100%;
+        height: 600px;
+        margin: 0 auto;
+        padding-right: 25px;
+    }
+    .req_pro_acc .close_icon {
+        right: 80px;
+    }
+    .similiar_slider_header .similiar_slider_heading span {
+        display: inline-block;
+    }
+    .account_type_inner {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width:419px) {
+    .horizontal_menuBar {
+        padding: 0 0 0 40px;
+    }
+    .horizontal_menuBar_slider .owl-stage {
+        padding-left: 0!important;
+    }
+    .horizontal_menuBar_slider .owl-nav button.owl-prev {
+        left: -30px;
+    }
+    .horizontal_menuBar_slider .owl-nav button.owl-next {
+        right: 30px;
+    }
+    .horizontal_menuBar_slider .owl-item.activeNext a {
+        opacity: .3;
+    }
+}
+
+@media screen and (max-width:380px) {
+    .account_type_inner {
+        width: 350px;
+    }
+}
+
+@media screen and (max-width:350px) {
+    .mobieleApp_slider .owl-item.owlPrev {
+        transform: translate3d(210px, 0, 0) scale(0.55);
+    }
+    .mobieleApp_slider .owl-item.owlNext {
+        transform: translate3d(-210px, 0, 0) scale(0.55);
+    }
+    .account_type_inner {
+        width: 320px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1649px) {
+    .broker_table_footer .btn {
+        padding: 0 15px;
+    }
+    .mobieleApp_options_right {
+        width: 230px;
+    }
+    .mobieleApp_options_left {
+        width: calc(100% - 230px);
+    }
+    .mobieleApp_option {
+        margin-right: 10px;
+        width: calc(25% - 10px);
+        height: 122px;
+    }
+    .conclusie_card_block_body {
+        flex-wrap: nowrap;
+    }
+    .conclusie_content_last,
+    .conclusie_all_buttons,
+    .conclusie_content,
+    .conclusie_card_block {
+        padding: 20px 10px;
+    }
+    .conclusie_info .progress_text {
+        margin-right: 10px;
+    }
+    .progress_table .profile_status_bar {
+        width: 100px;
+    }
+    .conclusie_features_list {
+        margin-top: 0;
+    }
+    .progress_table {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .conclusie_all_buttons .btn {
+        padding: 0 15px;
+        margin-bottom: 0;
+    }
+    .demoAcc_table .general_progress_title {
+        padding: 5px 10px;
+    }
+    .dAccount ul li {
+        padding-left: 10px;
+    }
+    .DemoAccount_wrap {
+        width: 30.27%;
+    }
+    .dAccountOp {
+        width: 28.02%;
+    }
+    .academy_content p {
+        font-size: 14px;
+    }
+}

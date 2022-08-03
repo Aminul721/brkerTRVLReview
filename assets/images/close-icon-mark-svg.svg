@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10" width="10" height="10">
+	<title>check-mark-svg</title>
+	<defs>
+		<image  width="10" height="10" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKBAMAAAB/HNKOAAAAAXNSR0IB2cksfwAAABJQTFRF3QAA3QAA3QAA3QAA3QAA3QAAGX9BywAAAAZ0Uk5Tv+xCAP/2nvm2AgAAAC9JREFUeJxjYFQ2NhJgEAkyVnVkUHVVCgliMAoJdVVmMFZ1CTKGkhARiCxEJVgXADWNCl0gH4L2AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<g id="Layer">
+		<use id="Layer 1" href="#img1" x="0" y="0"/>
+	</g>
+</svg>

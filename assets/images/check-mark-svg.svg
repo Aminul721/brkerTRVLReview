@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 35" width="46" height="35">
+	<title>check-mark-svg</title>
+	<style>
+		.s0 { fill: #80ba27 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m20.7 33.3c-2.1 2.1-5.4 2.1-7.5 0l-11.6-11.6c-2.1-2.1-2.1-5.4 0-7.5 2.1-2.1 5.4-2.1 7.5 0l6.9 6.9c0.5 0.5 1.4 0.5 1.9 0l18.7-18.7c2.1-2.1 5.4-2.1 7.5 0 1 1 1.6 2.3 1.6 3.8 0 1.5-0.6 2.8-1.6 3.8z"/>
+	</g>
+</svg>
